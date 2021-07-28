@@ -33,7 +33,5 @@ extension StargazerRowView {
 			.resizable()
 			.frame(width: 80, height: 80)
 			.cornerRadius(40)
-			.overlay(RoundedRectangle(cornerRadius: 5).strokeBorder(Color.black.opacity(0.3),
-																	lineWidth: 1))
 	}
 }

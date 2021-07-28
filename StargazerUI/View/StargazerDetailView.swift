@@ -26,6 +26,10 @@ struct StargazerDetailView: View {
 					.headerStyle()
 				Text("Have a look on my GitHub page:")
 				Link("\(stargazer.html_url)", destination: URL(string: "\(stargazer.html_url)")!)
+					.padding(.bottom)
+				Text("Email me if you need!")
+					.headerStyle()
+				Link("\(stargazer.email)", destination: URL(string: "mailto:\(stargazer.email)")!)
 				HStack {
 					Spacer()
 					Button(dataController.isFavorite(stargazer) ? "Remove Favorite" : "Add Favorite", action: toggleFavorite)

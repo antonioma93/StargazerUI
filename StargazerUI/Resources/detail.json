@@ -6,7 +6,8 @@
 	"picture" : "1",
 	"avatar_url": "https://avatars.githubusercontent.com/u/70?v=4",
 	"description" : "Hey there, my name is Scott Chacon and I was one of the cofounders of this here site you're using right this very minute. I wrote the Pro Git book and the Git website. Now I live in Berlin, investing in cool companies and trying to help the world learn new languages",
-	"html_url": "https://github.com/schacon"
+	"html_url": "https://github.com/schacon",
+	"email" : "schacon@me.com"
   },
   {
 	"login": "adelcambre",
@@ -15,7 +16,8 @@
 	"picture" : "2",
 	"avatar_url": "https://avatars.githubusercontent.com/u/242?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/adelcambre"
+	"html_url": "https://github.com/adelcambre",
+	"email" : "adelcambre@me.com"
   },
   {
 	"login": "usergenic",
@@ -24,7 +26,8 @@
 	"picture" : "3",
 	"avatar_url": "https://avatars.githubusercontent.com/u/578?v=4",
 	"description" : "I make software for people.",
-	"html_url": "https://github.com/usergenic"
+	"html_url": "https://github.com/usergenic",
+	"email" : "usergenic@me.com"
   },
   {
 	"login": "fdb",
@@ -33,7 +36,8 @@
 	"picture" : "4",
 	"avatar_url": "https://avatars.githubusercontent.com/u/8477?v=4",
 	"description" : "Teacher / researcher at Sint Lucas Antwerpen, interested in the intersection of code, art & design. Freelancer working in data visualisation.",
-	"html_url": "https://github.com/fdb"
+	"html_url": "https://github.com/fdb",
+	"email" : "fdb@me.com"
   },
   {
 	"login": "darinel",
@@ -42,7 +46,8 @@
 	"picture" : "5",
 	"avatar_url": "https://avatars.githubusercontent.com/u/29478?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/darinel"
+	"html_url": "https://github.com/darinel",
+	"email" : "darinel@me.com"
   },
   {
 	"login": "Willianvdv",
@@ -51,7 +56,8 @@
 	"picture" : "6",
 	"avatar_url": "https://avatars.githubusercontent.com/u/102915?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/Willianvdv"
+	"html_url": "https://github.com/Willianvdv",
+	"email" : "Willianvdv@me.com"
   },
   {
 	"login": "sul4bh",
@@ -60,7 +66,8 @@
 	"picture" : "7",
 	"avatar_url": "https://avatars.githubusercontent.com/u/109486?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/sul4bh"
+	"html_url": "https://github.com/sul4bh",
+	"email" : "sul4bh@me.com"
   },
   {
 	"login": "preavy",
@@ -69,7 +76,8 @@
 	"picture" : "8",
 	"avatar_url": "https://avatars.githubusercontent.com/u/131258?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/preavy"
+	"html_url": "https://github.com/preavy",
+	"email" : "preavy@me.com"
   },
   {
 	"login": "benjic",
@@ -78,7 +86,8 @@
 	"picture" : "9",
 	"avatar_url": "https://avatars.githubusercontent.com/u/135916?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/benjic"
+	"html_url": "https://github.com/benjic",
+	"email" : "benjic@me.com"
   },
   {
 	"login": "hagiwaratakayuki",
@@ -87,7 +96,8 @@
 	"picture" : "10",
 	"avatar_url": "https://avatars.githubusercontent.com/u/141513?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/hagiwaratakayuki"
+	"html_url": "https://github.com/hagiwaratakayuki",
+	"email" : "hagiwaratakayuki@me.com"
   },
   {
 	"login": "stefanlasiewski",
@@ -96,7 +106,8 @@
 	"picture" : "11",
 	"avatar_url": "https://avatars.githubusercontent.com/u/142752?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/stefanlasiewski"
+	"html_url": "https://github.com/stefanlasiewski",
+	"email" : "stefanlasiewski@me.com"
   },
   {
 	"login": "hbjerry",
@@ -105,7 +116,8 @@
 	"picture" : "12",
 	"avatar_url": "https://avatars.githubusercontent.com/u/174603?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/hbjerry"
+	"html_url": "https://github.com/hbjerry",
+	"email" : "hbjerry@me.com"
   },
   {
 	"login": "Visgean",
@@ -114,7 +126,8 @@
 	"picture" : "13",
 	"avatar_url": "https://avatars.githubusercontent.com/u/193832?v=4",
 	"description" : "Hi, I am Martin, but I go by Visgean on the internet. I create small goofy tools to experiment with new languages and frameworks.",
-	"html_url": "https://github.com/Visgean"
+	"html_url": "https://github.com/Visgean",
+	"email" : "Visgean@me.com"
   },
   {
 	"login": "jiska",
@@ -123,7 +136,8 @@
 	"picture" : "14",
 	"avatar_url": "https://avatars.githubusercontent.com/u/210861?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/jiska"
+	"html_url": "https://github.com/jiska",
+	"email" : "jiska@me.com"
   },
   {
 	"login": "hittudiv",
@@ -132,7 +146,8 @@
 	"picture" : "15",
 	"avatar_url": "https://avatars.githubusercontent.com/u/236097?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/hittudiv"
+	"html_url": "https://github.com/hittudiv",
+	"email" : "hittudiv@me.com"
   },
   {
 	"login": "paulomichael",
@@ -141,7 +156,8 @@
 	"picture" : "16",
 	"avatar_url": "https://avatars.githubusercontent.com/u/237418?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/paulomichael"
+	"html_url": "https://github.com/paulomichael",
+	"email" : "paulomichael@me.com"
   },
   {
 	"login": "garbagemonster",
@@ -150,7 +166,8 @@
 	"picture" : "17",
 	"avatar_url": "https://avatars.githubusercontent.com/u/243775?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/garbagemonster"
+	"html_url": "https://github.com/garbagemonster",
+	"email" : "garbagemonster@me.com"
   },
   {
 	"login": "minamipj9",
@@ -159,7 +176,8 @@
 	"picture" : "18",
 	"avatar_url": "https://avatars.githubusercontent.com/u/243983?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/minamipj9"
+	"html_url": "https://github.com/minamipj9",
+	"email" : "minamipj9@me.com"
   },
   {
 	"login": "coolhead",
@@ -168,7 +186,8 @@
 	"picture" : "19",
 	"avatar_url": "https://avatars.githubusercontent.com/u/245313?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/coolhead"
+	"html_url": "https://github.com/coolhead",
+	"email" : "coolhead@me.com"
   },
   {
 	"login": "Spaceghost",
@@ -177,7 +196,8 @@
 	"picture" : "20",
 	"avatar_url": "https://avatars.githubusercontent.com/u/251370?v=4",
 	"description" : "Building distribuited and decentralized that run in the browser. 👻",
-	"html_url": "https://github.com/Spaceghost"
+	"html_url": "https://github.com/Spaceghost",
+	"email" : "Spaceghost@me.com"
   },
   {
 	"login": "RustyF",
@@ -186,7 +206,8 @@
 	"picture" : "21",
 	"avatar_url": "https://avatars.githubusercontent.com/u/277341?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/RustyF"
+	"html_url": "https://github.com/RustyF",
+	"email" : "RustyF@me.com"
   },
   {
 	"login": "chexee",
@@ -195,7 +216,8 @@
 	"picture" : "22",
 	"avatar_url": "https://avatars.githubusercontent.com/u/285836?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/chexee"
+	"html_url": "https://github.com/chexee",
+	"email" : "chexee@me.com"
   },
   {
 	"login": "adrianbarbic",
@@ -204,7 +226,8 @@
 	"picture" : "23",
 	"avatar_url": "https://avatars.githubusercontent.com/u/296263?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/adrianbarbic"
+	"html_url": "https://github.com/adrianbarbic",
+	"email" : "adrianbarbic@me.com"
   },
   {
 	"login": "yasirmturk",
@@ -213,7 +236,8 @@
 	"picture" : "24",
 	"avatar_url": "https://avatars.githubusercontent.com/u/306691?v=4",
 	"description" : "12+ years experience in Software development | 8+ years iOS/Mobile | 100+ Projects/Apps",
-	"html_url": "https://github.com/yasirmturk"
+	"html_url": "https://github.com/yasirmturk",
+	"email" : "yasirmturk@me.com"
   },
   {
 	"login": "moonshadows",
@@ -222,7 +246,8 @@
 	"picture" : "25",
 	"avatar_url": "https://avatars.githubusercontent.com/u/313279?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/moonshadows"
+	"html_url": "https://github.com/moonshadows",
+	"email" : "moonshadows@me.com"
   },
   {
 	"login": "ff6347",
@@ -231,7 +256,8 @@
 	"picture" : "26",
 	"avatar_url": "https://avatars.githubusercontent.com/u/315106?v=4",
 	"description" : "👋🏼 I'm Fabian. I'm a creative technologist @technologiestiftung living in Berlin who occasionally does stuff that involves things.",
-	"html_url": "https://github.com/ff6347"
+	"html_url": "https://github.com/ff6347",
+	"email" : "ff6347@me.com"
   },
   {
 	"login": "LunaticNeko",
@@ -240,7 +266,8 @@
 	"picture" : "27",
 	"avatar_url": "https://avatars.githubusercontent.com/u/327290?v=4",
 	"description" : "Assistant Professor, Kanazawa University Emerging Media Initiative. NOTE: This GitHub is personally funded and may also be used privately.",
-	"html_url": "https://github.com/LunaticNeko"
+	"html_url": "https://github.com/LunaticNeko",
+	"email" : "LunaticNeko@me.com"
   },
   {
 	"login": "saadrehman",
@@ -249,7 +276,8 @@
 	"picture" : "28",
 	"avatar_url": "https://avatars.githubusercontent.com/u/338472?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/saadrehman"
+	"html_url": "https://github.com/saadrehman",
+	"email" : "saadrehman@me.com"
   },
   {
 	"login": "allanmaio",
@@ -258,7 +286,8 @@
 	"picture" : "29",
 	"avatar_url": "https://avatars.githubusercontent.com/u/345807?v=4",
 	"description" : "No description available",
-	"html_url": "https://github.com/allanmaio"
+	"html_url": "https://github.com/allanmaio",
+	"email" : "allanmaio@me.com"
   },
   {
 	"login": "kapare",
@@ -267,7 +296,8 @@
 	"picture" : "30",
 	"avatar_url": "https://avatars.githubusercontent.com/u/349579?v=4",
 	"description" : "No description available.",
-	"html_url": "https://github.com/kapare"
+	"html_url": "https://github.com/kapare",
+	"email" : "kapare@me.com"
   }
 ]
 

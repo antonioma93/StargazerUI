@@ -10,10 +10,11 @@ import Foundation
 struct Stargazer: Decodable, Identifiable {
 	let login: String
 	let id: Int
+	let node_id: String
 	let picture: String
 	let avatar_url: String
 	let description: String
 	let html_url: String
 
-	static let example = Stargazer(login: "schacon", id: 1, picture: "1", avatar_url: "avatar", description: "Nice", html_url: "https://github.com/schacon")
+	static let example = Stargazer(login: "schacon", id: 1, node_id: "node_id", picture: "1", avatar_url: "avatar", description: "Nice", html_url: "https://github.com/schacon")
 }

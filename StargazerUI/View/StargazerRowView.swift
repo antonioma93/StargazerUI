@@ -16,6 +16,9 @@ struct StargazerRowView: View {
 			VStack(alignment: .leading) {
 				Text(stargazer.login)
 					.font(.headline)
+				Text(stargazer.node_id)
+					.font(.caption)
+					.foregroundColor(.red)
 			}
 		}
 	}
@@ -33,5 +36,6 @@ extension StargazerRowView {
 			.resizable()
 			.frame(width: 80, height: 80)
 			.cornerRadius(40)
+			.shadow(radius: 80)
 	}
 }

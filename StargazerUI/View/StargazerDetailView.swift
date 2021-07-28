@@ -9,6 +9,7 @@ import SwiftUI
 
 struct StargazerDetailView: View {
 	@EnvironmentObject var dataController: DataController
+	
 	let stargazer: Stargazer
 
 	var body: some View {

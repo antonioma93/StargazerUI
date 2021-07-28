@@ -20,12 +20,12 @@ struct StargazerDetailView: View {
 			VStack(alignment: .leading) {
 				Text("User: \(stargazer.login)")
 					.headerStyle()
-				Text("Description: \(stargazer.description)")
+				Text("\(stargazer.description)")
 					.padding(.bottom)
 				Text("More info about me?")
 					.headerStyle()
-				Text("Check out my gitHub page:  " + "\(stargazer.html_url)")
-					.padding(.bottom)
+				Text("Have a look on my GitHub page:")
+				Link("\(stargazer.html_url)", destination: URL(string: "\(stargazer.html_url)")!)
 				HStack {
 					Spacer()
 					Button(dataController.isFavorite(stargazer) ? "Remove Favorite" : "Add Favorite", action: toggleFavorite)

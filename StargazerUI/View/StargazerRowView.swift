@@ -36,6 +36,5 @@ extension StargazerRowView {
 			.resizable()
 			.frame(width: 80, height: 80)
 			.cornerRadius(40)
-			.shadow(radius: 80)
 	}
 }

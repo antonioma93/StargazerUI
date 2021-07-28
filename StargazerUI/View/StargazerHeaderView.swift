@@ -16,10 +16,10 @@ struct StargazerHeaderView: View {
 			.resizable()
 			.scaledToFit()
 		if dataController.isFavorite(stargazer) {
-			Image(systemName: "heart.fill")
+			Image(systemName: "star.fill").renderingMode(.original)
 				.foregroundColor(.white)
 				.padding()
-				.background(Color.red)
+				.background(Color.blue)
 				.clipShape(Circle())
 				.overlay (
 					Circle()

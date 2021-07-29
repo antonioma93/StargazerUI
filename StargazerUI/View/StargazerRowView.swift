@@ -15,7 +15,7 @@ struct StargazerRowView: View {
 			imageStyle()
 			VStack(alignment: .leading) {
 				Text(stargazer.login)
-					.font(.headline)
+					.font(.title)
 				Text(stargazer.node_id)
 					.font(.caption)
 					.foregroundColor(.red)

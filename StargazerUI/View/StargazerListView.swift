@@ -36,7 +36,6 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 extension StargazerListView {
-
 	func toggleFavorite() {
 		withAnimation {
 			showingFavorites.toggle()

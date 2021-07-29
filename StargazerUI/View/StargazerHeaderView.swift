@@ -16,16 +16,7 @@ struct StargazerHeaderView: View {
 			.resizable()
 			.scaledToFit()
 		if dataController.isFavorite(stargazer) {
-			Image(systemName: "star.fill").renderingMode(.original)
-				.foregroundColor(.white)
-				.padding()
-				.background(Color.blue)
-				.clipShape(Circle())
-				.overlay (
-					Circle()
-						.strokeBorder(Color.white, lineWidth: 2)
-				)
-				.offset(x: -10, y: -10)
+			setImage()
 		}
 	}
 }
@@ -34,5 +25,21 @@ struct StargazerHeaderView_Previews: PreviewProvider {
 	static var previews: some View {
 		StargazerHeaderView(stargazer: Stargazer.example)
 			.environmentObject(DataController())
+	}
+}
+
+extension StargazerHeaderView {
+	func setImage() -> some View {
+		Image(systemName: "star.fill").renderingMode(.original)
+			.foregroundColor(.white)
+			.padding()
+			.background(Color.blue)
+			.clipShape(Circle())
+			.rotationEffect(.degrees(-90))
+			.overlay (
+				Circle()
+					.strokeBorder(Color.white, lineWidth: 2)
+			)
+			.offset(x: -10, y: -10)
 	}
 }

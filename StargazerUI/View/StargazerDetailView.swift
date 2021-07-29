@@ -9,7 +9,6 @@ import SwiftUI
 
 struct StargazerDetailView: View {
 	@EnvironmentObject var dataController: DataController
-	
 	let stargazer: Stargazer
 
 	var body: some View {
@@ -29,7 +28,7 @@ struct StargazerDetailView: View {
 					.padding(.bottom)
 				Text("Email me if you need!")
 					.headerStyle()
-				Link("\(stargazer.email)", destination: URL(string: "mailto:\(stargazer.email)")!)
+				Link("\(stargazer.email)", destination: URL(string: "\(stargazer.email)")!)
 				HStack {
 					Spacer()
 					Button(dataController.isFavorite(stargazer) ? "Remove Favorite" : "Add Favorite", action: toggleFavorite)

@@ -41,17 +41,19 @@ extension StargazerListView {
 			showingFavorites.toggle()
 		}
 	}
-
 	var favoritesButton: some View {
 		Button(action: toggleFavorite) {
 			if showingFavorites {
 				Text("Show all stargazers")
+					.padding()
+					.overlay(RoundedRectangle(cornerRadius: 15).stroke(Color.red, lineWidth: 2))
 			} else {
 				Text("Show favorites only")
+					.padding()
+					.overlay(RoundedRectangle(cornerRadius: 15).stroke(Color.red, lineWidth: 2))
 			}
 		}
 	}
-
 	var items: [Stargazer] {
 		if showingFavorites {
 			return dataController.stargazers.filter(dataController.isFavorite)

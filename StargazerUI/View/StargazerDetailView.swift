@@ -67,11 +67,13 @@ extension Text {
 }
 
 struct PrimaryDetailButtonStyle: ButtonStyle {
+	@State private var flipped = false
+
 	func makeBody(configuration: Configuration) -> some View {
 		configuration.label
 			.padding()
 			.background(configuration.isPressed ? Color.blue.opacity(0.5) : Color.blue)
-			.foregroundColor(.white)
 			.clipShape(Capsule())
+			.foregroundColor(.white)
 	}
 }

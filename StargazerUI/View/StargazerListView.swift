@@ -45,10 +45,21 @@ extension StargazerListView {
 		Button(action: toggleFavorite) {
 			if showingFavorites {
 				Text("Show all")
+					.padding()
+					.overlay(
+					RoundedRectangle(cornerRadius: 10)
+						.stroke(Color.blue, lineWidth: 2)
+					)
 			} else {
 				Text("Show favorites")
+					.padding()
+					.overlay(
+					RoundedRectangle(cornerRadius: 10)
+						.stroke(Color.blue, lineWidth: 2)
+					)
 			}
 		}
+		.offset(y: -8)
 	}
 	var items: [Stargazer] {
 		if showingFavorites {
